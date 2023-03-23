@@ -1,11 +1,11 @@
 song,artist,album,year,genre,mood,popularity
-seek & destroy,metallica,no life til leather,1982,metal,aggressive,0
-for whom the bell tolls,metallica,ride the lightning,1984,metal,aggressive,0
-fade to black,metallica,ride the lightning,1984,metal,melancholic,0
-master of puppets,metallica,master of puppets,1986,metal,aggressive,1
+seek & destroy,metallica,no life til leather,1982,heavy metal,aggressive,0
+for whom the bell tolls,metallica,ride the lightning,1984,heavy metal,aggressive,0
+fade to black,metallica,ride the lightning,1984,heavy metal,melancholic,0
+master of puppets,metallica,master of puppets,1986,heavy metal,aggressive,1
 one,metallica,and justice for all,1988,rock,aggressive,0
 enter sandman,metallica,metallica,1991,rock,aggressive,1
-nothing else matters,metallica,metallica,1991,metal,melancholic,0
+nothing else matters,metallica,metallica,1991,heavy metal,melancholic,0
 the unforgiven,metallica,metallica,1991,rock,melancholic,1
 the real slim shady,eminem,the marshall mathers lp,2000,hip hop,energetic,0
 stan,eminem,the marshall mathers lp,2000,rap,melancholic,0
@@ -13,28 +13,28 @@ in the end,linkin park,hybrid theory,2000,rock,optimistic,0
 superman,eminem,the eminem show,2002,rap,melancholic,0
 without me,eminem,the eminem show,2002,rap,energetic,0
 beautiful,mariah carey,charmbracelet,2002,pop,romantic,1
-numb,linkin park,meteora,2003,metal,melancholic,1
+numb,linkin park,meteora,2003,heavy metal,melancholic,1
 faint,linkin park,meteora,2003,rock,aggressive,0
-breaking the habit,linkin park,meteora,2003,metal,melancholic,0
+breaking the habit,linkin park,meteora,2003,heavy metal,melancholic,0
 mockingbird,eminem,encore,2004,hip hop,melancholic,0
 lonely,akon,trouble,2004,pop,sad,0
 smack that,akon,konvicted,2006,pop,upbeat,1
 I wanna love you,akon,konvicted,2006,pop,romantic,1
 what ive done,linkin park,minutes to midnight,2007,rock,optimistic,0
-bleed it out,linkin park,minutes to midnight,2007,metal,angry,0
+bleed it out,linkin park,minutes to midnight,2007,heavy metal,angry,0
 leave out all the rest,linkin park,minutes to midnight,2007,rock,melancholic,0
 you belong with me,taylor swift,fearless,2008,pop,love,0
 love story,taylor swift,fearless,2008,country,love,0
 beautiful,akon,freedom,2008,pop,romantic,0
 freedom,akon,freedom,2008,pop,upbeat,0
 right now,akon,freedom,2008,pop,melancholic,0
-the day that never comes,metallica,death magnetic,2008,metal,energetic,0
-new divide,linkin park,new divide,2009,metal,energetic,0
+the day that never comes,metallica,death magnetic,2008,heavy metal,energetic,0
+new divide,linkin park,new divide,2009,heavy metal,energetic,0
 not afraid,eminem,recovery,2010,rap,optimistic,1
 I knew you were trouble,taylor swift,red,2012,pop,angry,0
 red,taylor swift,red,2012,pop,melancholic,0
 burn it down,linkin park,living things,2012,rock,optimistic,0
-castle of glass,linkin park,living things,2012,metal,hopeful,0
+castle of glass,linkin park,living things,2012,heavy metal,hopeful,0
 rap god,eminem,the marshall mathers lp 2,2013,rap,energetic,1
 shake it off,taylor swift,1989,2014,pop,happy,1
 blank space,taylor swift,1989,2014,pop,upbeat,1
@@ -52,7 +52,7 @@ perfect,ed sheeran,/,2017,pop,romantic,0
 castle on the hill,ed sheeran,/,2017,pop,melancholic,0
 galway girl,ed sheeran,/,2017,pop,upbeat,0
 snowman,sia,everyday is christmas,2017,pop,melancholic,0
-one more light,linkin park,one more light,2017,metal,sad,0
+one more light,linkin park,one more light,2017,heavy metal,sad,0
 venom,eminem,kamikaze,2018,rap,energetic,0
 watermelon sugar,harry styles,fine line,2019,pop,upbeat,1
 bad guy,billie eilish,when we all fall asleep,2019,pop,upbeat,1
@@ -126,10 +126,10 @@ we will rock you,queen,news of the world,1977,rock,motivational,1
 eye of the tiger,survivor,eye of the tiger,1982,hard rock,motivational,1
 bohemian rhapsody,queen,a night at the opera,1975,hard rock,upbeat,1
 radio ga ga,queen,the works,1984,hard rock,upbeat,0
-tornado of souls,megadeth,rust in peace,1990,metal,angry,1
-lucretia,megadeth,rust in peace,1990,metal,angry,0
-addicted to chaos,megadeth,youthanasia,1994,metal,melancholic,0
-a toute le monde,megadeth,youthanasia,1994,metal,sad,1
-war pigs,black sabbath,paranoid,1970,metal,motivational,0
-iron man,black sabbath,paranoid,1970,metal,angry,1
-paranoid,black sabbath,paranoid,1970,metal,angry,1
+tornado of souls,megadeth,rust in peace,1990,heavy metal,angry,1
+lucretia,megadeth,rust in peace,1990,heavy metal,angry,0
+addicted to chaos,megadeth,youthanasia,1994,heavy metal,melancholic,0
+a toute le monde,megadeth,youthanasia,1994,heavy metal,sad,1
+war pigs,black sabbath,paranoid,1970,heavy metal,motivational,0
+iron man,black sabbath,paranoid,1970,heavy metal,angry,1
+paranoid,black sabbath,paranoid,1970,heavy metal,angry,1
