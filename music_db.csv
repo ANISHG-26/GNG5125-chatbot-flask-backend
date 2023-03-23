@@ -1,0 +1,124 @@
+song,artist,album,year,genre,mood,popularity
+seek & destroy,metallica,no life til leather,1982,metal,"energetic,aggressive",0
+for whom the bell tolls,metallica,ride the lightning,1984,metal,aggressive,0
+fade to black,metallica,ride the lightning,1984,"rock, metal",melancholic,0
+master of puppets,metallica,master of puppets,1986,"rock, metal",aggressive,1
+one,metallica,and justice for all,1988,"rock, metal",aggressive,0
+enter sandman,metallica,metallica,1991,"rock, metal",aggressive,1
+nothing else matters,metallica,metallica,1991,"rock, metal",melancholic,0
+the unforgiven,metallica,metallica,1991,"rock, metal","sad,melancholic",1
+the real slim shady,eminem,the marshall mathers lp,2000,"hip hop, rap",energetic,0
+stan,eminem,the marshall mathers lp,2000,"hip hop, rap","sad,melancholic",0
+in the end,linkin park,hybrid theory,2000,"rock, metal","melancholic, optimistic",0
+superman,eminem,the eminem show,2002,rap,melancholic,0
+without me,eminem,the eminem show,2002,"hip hop, rap",energetic,0
+beautiful,mariah carey,charmbracelet,2002,pop,romantic,1
+numb,linkin park,meteora,2003,"rock, metal",melancholic,1
+faint,linkin park,meteora,2003,"rock, metal","aggressive,energetic",0
+breaking the habit,linkin park,meteora,2003,"rock, metal","melancholic, upbeat",0
+mockingbird,eminem,encore,2004,"hip hop, rap",melancholic,0
+lonely,akon,trouble,2004,pop,sad,0
+smack that,akon,konvicted,2006,pop,upbeat,1
+I wanna love you,akon,konvicted,2006,pop,romantic,1
+what ive done,linkin park,minutes to midnight,2007,"rock, metal","melancholic,optimistic",0
+bleed it out,linkin park,minutes to midnight,2007,"rock, metal","energetic,angry",0
+leave out all the rest,linkin park,minutes to midnight,2007,"rock, metal",melancholic,0
+you belong with me,taylor swift,fearless,2008,"pop, country","love,upbeat",0
+love story,taylor swift,fearless,2008,"pop, country",love,0
+beautiful,akon,freedom,2008,pop,romantic,0
+freedom,akon,freedom,2008,pop,upbeat,0
+right now,akon,freedom,2008,pop,melancholic,0
+the day that never comes,metallica,death magnetic,2008,metal,energetic,0
+new divide,linkin park,,2009,"rock, metal",energetic,0
+not afraid,eminem,recovery,2010,"hip hop, rap",optimistic,1
+chammak challo,akon,,2011,pop,upbeat,0
+I knew you were trouble,taylor swift,red,2012,pop,angry,0
+red,taylor swift,red,2012,"pop, country",melancholic,0
+burn it down,linkin park,living things,2012,"rock, metal","aggressive,optimistic",0
+castle of glass,linkin park,living things,2012,"rock, metal","melancholic,hopeful",0
+rap god,eminem,the marshall mathers lp 2,2013,"hip hop, rap",energetic,1
+i see fire,ed sheeran,,2013,folk,melancholic,0
+shake it off,taylor swift,1989,2014,pop,"energetic,happy",1
+blank space,taylor swift,1989,2014,pop,upbeat,1
+bad blood,taylor swift,1989,2014,pop,"Angry,energetic",0
+photograph,ed sheeran,x,2014,pop,romantic,0
+thinking out loud,ed sheeran,x,2014,pop,romantic,0
+chandelier,sia,voices,2014,pop,upbeat,0
+california dreamin,sia,,2015,pop,upbeat,0
+unstoppable,sia,this is acting,2016,pop,Optimistic,1
+the greatest,sia,the greatest,2016,pop,upbeat,0
+cheap thrills,sia,this is acting,2016,pop,upbeat,1
+look what you made me do,taylor swift,reputation,2017,pop,angry,0
+delicate,taylor swift,reputation,2017,pop,love,0
+shape of you,ed sheeran,/,2017,pop,love,1
+perfect,ed sheeran,/,2017,pop,romantic,0
+castle on the hill,ed sheeran,/,2017,pop,melancholic,0
+galway girl,ed sheeran,/,2017,pop,upbeat,0
+snowman,sia,everyday is christmas,2017,pop,melancholic,0
+one more light,linkin park,one more light,2017,"rock, metal","sad,melancholic",0
+venom,eminem,kamikaze,2018,"hip hop, rap",energetic,0
+im still here,sia,,2018,pop,hopeful,0
+watermelon sugar,harry styles,fine line,2019,pop,upbeat,1
+bad guy,billie eilish,when we all fall asleep,2019,pop,upbeat,1
+godzilla,eminem,music to be murdered by,2020,"hip hop, rap",aggressive,0
+blinding lights,the weeknd,after hours,2020,pop,"upbeat,energetic",1
+dynamite,bts,dynamite,2020,k-pop,upbeat,1
+levitating,dua lipa,future nostalgia,2020,pop,upbeat,1
+bad habits,ed sheeran,=,2021,pop,upbeat,0
+shivers,ed sheeran,=,2021,pop,"upbeat,romantic",0
+anti hero,taylor swift,midnights,2022,pop,upbeat,0
+celestial,ed sheeran,,2022,pop,"upbeat,love",0
+montero,lil nas x,montero,2021,pop,upbeat,1
+good 4 u,olivia rodrigo,sour,2021,pop,"energetic,angry",1
+rumors,"lizzo, cardi b",rumors,2021,pop,upbeat,1
+in da club,50 cent,get rich or die tryin,2003,hip hop,party,1
+rolling in the deep,adele,21,2010,"soul,pop",sad,1
+royals,lorde,pure heroine,2013,"alternative,pop",sad,1
+we found love,rihanna,talk that talk,2011,"dance,pop",love,1
+someone like you,adele,21,2011,"pop,soul","love,sad",1
+stressed out,twenty one pilots,blurryface,2015,"alternative,indie",melancholic,1
+love on top,beyonce,4,2011,"r&b,pop","upbeat,love",1
+uptown funk,"mark ronson, bruno mars",uptown special,2014,"funk,pop",upbeat,1
+don't start now,dua lipa,future nostalgia,2019,pop,upbeat,1
+umbrella,rihanna,good girl gone bad,2007,pop,upbeat,1
+sexyback,justin timberlake,lovesounds,2006,pop,upbeat,1
+halo,beyonce,fierce,2008,pop,romantic,1
+just dance,lady gaga,the fame,2008,pop,upbeat,1
+bleeding love,leona lewis,spirit,2007,pop,sad,1
+stronger,kanye west,graduation,2007,hip hop,upbeat,1
+,,,,,,
+disturbia,rihanna,good girl gone bad: reloaded,2008,pop,upbeat,0
+big girls don't cry,fergie,the dutchess,2006,pop,sad,0
+,,,,,,
+crazy in love,beyonce,dangerously in love,2003,pop,upbeat,1
+my heart will go on,celine dion,lets talk about love,1997,pop,romantic,1
+lose yourself,eminem,8 mile soundtrack,2002,hip hop,motivational,1
+,,,,,,
+a thousand miles,vanessa carlton,be not nobody,2001,pop,romantic,0
+love lockdown,kanye west,808s & heartbreak,2008,hip hop,sad,0
+dont cha,the pussycat dolls,pcd,2005,pop,sassy,1
+cry me a river,justin timberlake,justified,2002,pop,sad,1
+low,flo rida,mail on sunday,2008,hip hop,party,1
+fallin,alicia keys,songs in a minor,2001,r&b,soulful,0
+when you were young,the killers,sams town,2006,rock,uplifting,0
+yeah! ,usher,confessions,2004,r&b,party,1
+say it right,nelly furtado,loose,2006,pop,upbeat,0
+boulevard of broken dreams,green day,american idiot,2004,rock,sad,1
+jenny from the block,jennifer lopez,this is me,2002,pop,confident,0
+hollaback girl, gwen stefani,love angel music baby,2005,pop,confident,1
+my humps,the black eyed peas,monkey business,2005,pop,playful,1
+beautiful day,u2,all that you cant leave behind,2000,rock,uplifting,0
+cant get you out of my head,kylie minogue,fever,2001,pop,catchy,1
+gold digger,kanye west,late registration,2005,hip hop,playful,1
+let me love you,mario,turn the page,2004,r&b,romantic,0
+stay,"the kid laroi, justin bieber",stay,2021,pop,"upbeat,melancholic",1
+womanizer,britney spears,circus,2008,pop,playful,1
+when im gone,eminem,curtain call the hits,2005,hip hop,sad,0
+mr brightside,the killers,hot fuss,2004,rock,uplifting,0
+viva la vida,coldplay,viva la vida or death and all his friends,2008,rock,uplifting,1
+buy u a drank shawty snappin,t-pain,epiphany,2007,r&b,romantic,1
+apologize,one republic,dreaming out loud,2007,pop,sad,1
+stay,rihanna,unapologetic,2012,"pop,r&b",melancholic,1
+irreplaceable, beyonce,bday,2006,r&b,confident,0
+poker face,lady gaga,the fame,2008,pop,playful,1
+hey there delilah, plain white ts,every second counts,2006,rock,romantic,0
