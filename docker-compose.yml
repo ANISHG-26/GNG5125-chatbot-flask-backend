@@ -1,7 +1,7 @@
 version: "3.9"
 services:
   music-chatbot-backend:
-    image: anish26/music-chatbot-flask-backend:v2
+    image: anish26/music-chatbot-flask-backend:v3
     build: .
     ports:
       - "8000:5000"
