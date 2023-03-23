@@ -38,11 +38,11 @@ castle of glass,linkin park,living things,2012,"rock, metal","melancholic,hopefu
 rap god,eminem,the marshall mathers lp 2,2013,"hip hop, rap",energetic,1
 shake it off,taylor swift,1989,2014,pop,"energetic,happy",1
 blank space,taylor swift,1989,2014,pop,upbeat,1
-bad blood,taylor swift,1989,2014,pop,"Angry,energetic",0
+bad blood,taylor swift,1989,2014,pop,"angry,energetic",0
 photograph,ed sheeran,x,2014,pop,romantic,0
 thinking out loud,ed sheeran,x,2014,pop,romantic,0
 chandelier,sia,voices,2014,pop,upbeat,0
-unstoppable,sia,this is acting,2016,pop,Optimistic,1
+unstoppable,sia,this is acting,2016,pop,optimistic,1
 the greatest,sia,the greatest,2016,pop,upbeat,0
 cheap thrills,sia,this is acting,2016,pop,upbeat,1
 look what you made me do,taylor swift,reputation,2017,pop,angry,0
@@ -97,7 +97,7 @@ yeah! ,usher,confessions,2004,r&b,party,1
 say it right,nelly furtado,loose,2006,pop,upbeat,0
 boulevard of broken dreams,green day,american idiot,2004,rock,sad,1
 jenny from the block,jennifer lopez,this is me,2002,pop,confident,0
-hollaback girl, gwen stefani,love angel music baby,2005,pop,confident,1
+hollaback girl,gwen stefani,love angel music baby,2005,pop,confident,1
 my humps,the black eyed peas,monkey business,2005,pop,playful,1
 beautiful day,u2,all that you cant leave behind,2000,rock,uplifting,0
 cant get you out of my head,kylie minogue,fever,2001,pop,catchy,1
@@ -114,3 +114,22 @@ stay,rihanna,unapologetic,2012,"pop,r&b",melancholic,1
 irreplaceable, beyonce,bday,2006,r&b,confident,0
 poker face,lady gaga,the fame,2008,pop,playful,1
 hey there delilah, plain white ts,every second counts,2006,rock,romantic,0
+roar,katy perry,prism,2013,pop,confident,1
+last friday night,katy perry,teenage dream,2010,pop,upbeat,1
+firework,katy perry,teenage dream,2010,pop,upbeat,1
+365,katy perry,vaccine of love,2021,"dance,electronic",sad,0
+waka waka,shakira,sale el sol,2010,pop,motivational,1
+hips don't lie,shakira,oral fixation,2005,pop,happy,1
+the scientist,coldplay,a rush of blood to the head,2002,rock,sad,1
+heartless,the weeknd,after hours,2020,r&b,edgy,0
+we will rock you,queen,news of the world,1977,rock,motivational,1
+eye of the tiger,survivor,eye of the tiger,1982,hard rock,motivational,1
+bohemian rhapsody,queen,a night at the opera,1975,hard rock,upbeat,1
+radio ga ga,queen,the works,1984,hard rock,upbeat,0
+tornado of souls,megadeth,rust in peace,1990,metal,angry,1
+lucretia,megadeth,rust in peace,1990,metal,angry,0
+addicted to chaos,megadeth,youthanasia,1994,metal,melancholic,0
+a toute le monde,megadeth,youthanasia,1994,metal,sad,1
+war pigs,black sabbath,paranoid,1970,metal,motivational,0
+iron man,black sabbath,paranoid,1970,metal,angry,1
+paranoid,black sabbath,paranoid,1970,metal,angry,1
