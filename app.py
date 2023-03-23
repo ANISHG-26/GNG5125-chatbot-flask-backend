@@ -62,7 +62,7 @@ def popularSong(content):
 
 #Function for recommending song by genre
 def songByGenre(content):
-  genre = content['queryResult']['parameters']['music-genre'].lower()
+  genre = content['queryResult']['parameters']['music-genre'][0].lower()
   df = pd.read_csv('music_db.csv')
   #query the df to get the songs by a particular genre
   songs_list = df.loc[df.genre.str.contains(genre), ['song']].values.tolist()
