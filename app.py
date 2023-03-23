@@ -12,7 +12,7 @@ app = Flask(__name__)
 #Function for recommending other songs by a given artist
 def songByArtist(content):
   artist = content['queryResult']['parameters']['music-artist'].lower()
-  df = pd.read_csv('music_db.csv')
+  df = pd.read_csv('music_db.csv').drop_duplicates()
   #query the df to get the songs by a particular artist
   #output shows as [['shake it off'], ['you belong with me'], ['blank space'],...]]
   songs_by_artist = df.loc[df.artist.str.contains(artist),
@@ -44,7 +44,7 @@ def songByArtist(content):
 #Function for recommending popular song by artist
 def popularSong(content):
   artist = content['queryResult']['parameters']['music-artist'].lower()
-  df = pd.read_csv('music_db.csv')
+  df = pd.read_csv('music_db.csv').drop_duplicates()
   #query the df to get the songs by a particular artist where the popularity column is set as 1
   songs_by_artist = df.loc[(df.artist.str.contains(artist)) &
                            (df['popularity'] == 1), ['song']].values.tolist()
@@ -63,7 +63,7 @@ def popularSong(content):
 #Function for recommending song by genre
 def songByGenre(content):
   genre = content['queryResult']['parameters']['music-genre'].lower()
-  df = pd.read_csv('music_db.csv')
+  df = pd.read_csv('music_db.csv').drop_duplicates()
   #query the df to get the songs by a particular genre
   songs_list = df.loc[df.genre.str.contains(genre), ['song']].values.tolist()
   random.shuffle(songs_list)
@@ -82,7 +82,7 @@ def songByGenre(content):
 #Function for recommending song by mood
 def songByMood(content):
   mood = content['queryResult']['parameters']['mood'].lower()
-  df = pd.read_csv('music_db.csv')
+  df = pd.read_csv('music_db.csv').drop_duplicates()
   #query the df to get the songs by a particular mood
   songs_list = df.loc[df.mood.str.contains(mood), ['song']].values.tolist()
   random.shuffle(songs_list)
@@ -100,7 +100,7 @@ def songByMood(content):
 #Function for recommending albums by artist
 def getAlbum(content):
   artist = content['queryResult']['parameters']['music-artist'].lower()
-  df = pd.read_csv('music_db.csv')
+  df = pd.read_csv('music_db.csv').drop_duplicates()
   #query the df to get the albums by a particular artist
   albums_by_artist = df.loc[df.artist.str.contains(artist),
                            ['album']]
