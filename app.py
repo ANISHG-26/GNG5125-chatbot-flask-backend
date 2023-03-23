@@ -103,7 +103,10 @@ def getAlbum(content):
   df = pd.read_csv('music_db.csv')
   #query the df to get the albums by a particular artist
   albums_by_artist = df.loc[df.artist.str.contains(artist),
-                           ['album']].values.tolist()
+                           ['album']]
+  albums_by_artist = albums_by_artist.drop_duplicates()   #To stop albums from being repeated in the response we drop duplicates and empty values
+  albums_by_artist = albums_by_artist.dropna()
+  albums_by_artist = albums_by_artist.values.tolist()
   msg = ""
   if len(albums_by_artist) > 0:
     random.shuffle(albums_by_artist)
